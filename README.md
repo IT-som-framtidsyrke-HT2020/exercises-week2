@@ -71,5 +71,13 @@ change the array at that index position. For example, you can search for 'Sweden
 2.1 Us e a turnery operator to decide how many pets you have. Remember it can be **one pet**, **pets** or **no pets**.
 2.2 Do the same as in task nr 2 but with the this keyword this time.
 
-### Iteration: for loop
-1. There are elections in your country! In a small town, there are only 50 voters.Use a for loop to simulate the 50 people voting, by logging a string like this to the console (for numbers 1 to 50): 'Voter number 1 is currently voting'
+### Iteration
+1. There are elections in your country! In a small town, there are only 50 voters.Use a for loop to simulate the 50 people voting, by logging a string like this to the console (for numbers 1 to 50): 'Voter number 1 is currently voting'.
+
+2. Store this array of arrays into a variable called 'listOfNeighbours'
+**Array:**
+[['Canada', 'Mexico'], ['Spain'], ['Norway', 'Sweden',
+'Russia']];
+2.1 Log only the neighbouring countries to the console, one by one, not the entire arrays. Log a string like 'Neighbour: Canada' for each country
+2.2 You will need a loop inside a loop for this. This is actually a bit tricky, so don't worry if it's too difficult for you! But you can still try to figure this out anyway 😉
+
